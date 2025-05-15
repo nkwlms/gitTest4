@@ -1,0 +1,10 @@
+
+
+.class {
+width: 100px;
+height: 100px;
+overflow: clip;
+background: red;
+padding: 0px;
+box-sizing: border-box;}
+
